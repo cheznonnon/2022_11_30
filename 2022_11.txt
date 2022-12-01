@@ -12,6 +12,29 @@
 Change Log
 
 
+2022/11/30 #1 : 2022/12/01
+
+
+BUGFIX
+
+
+	CatPad for Mac
+		Cat Button
+			OLD : not enabled in some cases
+			NEW : fixed
+	Nonnon Paint for Mac
+		Grabber : Transform : key binding
+			OLD : Command + Shift
+			NEW : Command + Option
+			[?] : menu-click emulator uses Shift key
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/11/30
 
 
