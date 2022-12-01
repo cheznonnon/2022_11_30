@@ -27,6 +27,9 @@ BUGFIX
 			OLD : Command + Shift
 			NEW : Command + Option
 			[?] : menu-click emulator uses Shift key
+		Multi-Layer : Quick Stretch
+			OLD : not previewed
+			NEW : fixed
 
 
 ----------==========----------==========----------==========----------
