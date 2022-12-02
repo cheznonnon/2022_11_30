@@ -12,6 +12,46 @@
 Change Log
 
 
+2022/11/30 #2 : 2022/12/02
+
+
+BUGFIX
+
+
+	mac/n_txtbox.c
+		caret
+			OLD : misbehave in some cases
+			NEW : re-tuned
+			[!] : maybe not fixed yet
+
+	Nonnon Paint for Mac
+		Grabber : Blend Scrollbar
+			OLD : affect all canvas
+			NEW : fixed
+		Tool Window : Scrollbars
+			OLD : not captured
+			NEW : fixed
+		Grabber : Blend Scrollbar #2
+			OLD : reset but UI is not refreshed
+			NEW : no touch
+			[x] : cannot connect to UI main delegate
+
+
+NEW_FEATURE
+
+
+	mac/n_button.c
+		frame
+			OLD : round rect
+			NEW : squircle
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/11/30 #1 : 2022/12/01
 
 
