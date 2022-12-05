@@ -12,6 +12,47 @@
 Change Log
 
 
+2022/11/30 #3 : 2022/12/05
+
+
+BUGFIX
+
+
+	Nonnon Paint for Mac
+		Grabber : Pen Input : cursor
+			OLD : not accurate
+			NEW : fixed
+		Grabber : Pen Input : resize cursor
+			OLD : appeared
+			NEW : hidden
+
+
+NEW_FEATURE
+
+
+	mac/n_button.c
+		disabled state
+			NEW : more gray-ish
+
+	Nonnon Freecell for Mac
+		Foundation
+			NEW : simplified
+			[?] : edge is not beautiful
+		Darkmode : Background Color
+			NEW : re-tuned
+			[!] : reversed
+	Nonnon Paint for Mac
+		Grabber : Resize Corner : when the mode is not Grabber
+			OLD : highlight color
+			NEW : grayed-out
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/11/30 #2 : 2022/12/02
 
 
